@@ -48,12 +48,12 @@ FFFFG
 5. Output akan diletakkan di folder result
    
 ## Cara Kompilasi : 
-1. Jalankan g++ -o bin/main src/main.cpp di Terminal
-2. Jalankan ./bin/main di Terminal
+1. Jalankan `g++ -o bin/main src/main.cpp` di Terminal
+2. Jalankan `./bin/main` di Terminal
 
 ## Cara Run :
 1. Masukkan file .txt ke folder test
-2. Jalankan ./bin/main di Terminal
+2. Jalankan `./bin/main` di Terminal
 3. Akan diminta nama file yang ingin dibuka, masukkan nama file sesuai keinginan
 4. Pilih metode penyelesaian
 5. Tunggu, proses komputasi sedang berlangsung
